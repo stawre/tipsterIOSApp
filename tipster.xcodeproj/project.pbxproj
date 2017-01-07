@@ -14,6 +14,7 @@
 		AD8FA0441E2099170036538E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD8FA0421E2099170036538E /* LaunchScreen.storyboard */; };
 		AD8FA04F1E2099170036538E /* tipsterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8FA04E1E2099170036538E /* tipsterTests.swift */; };
 		AD8FA05A1E2099170036538E /* tipsterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8FA0591E2099170036538E /* tipsterUITests.swift */; };
+		AD8FA0681E209CE30036538E /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8FA0671E209CE30036538E /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AD8FA0551E2099170036538E /* tipsterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipsterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD8FA0591E2099170036538E /* tipsterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipsterUITests.swift; sourceTree = "<group>"; };
 		AD8FA05B1E2099170036538E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD8FA0671E209CE30036538E /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				AD8FA0391E2099170036538E /* AppDelegate.swift */,
 				AD8FA03B1E2099170036538E /* ViewController.swift */,
 				AD8FA03D1E2099170036538E /* Main.storyboard */,
+				AD8FA0671E209CE30036538E /* SettingsViewController.swift */,
 				AD8FA0401E2099170036538E /* Assets.xcassets */,
 				AD8FA0421E2099170036538E /* LaunchScreen.storyboard */,
 				AD8FA0451E2099170036538E /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				AD8FA03C1E2099170036538E /* ViewController.swift in Sources */,
 				AD8FA03A1E2099170036538E /* AppDelegate.swift in Sources */,
+				AD8FA0681E209CE30036538E /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
