@@ -1,4 +1,4 @@
-# Pre-work - *Tipster*
+# *Tipster*
 
 **Tipster** is a tip calculator application for iOS.
 
@@ -9,10 +9,6 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/iSsoRD2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
